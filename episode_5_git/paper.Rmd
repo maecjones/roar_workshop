@@ -11,6 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Testing
 
+I want to test how this works
+
+I am trying out different things 
+
 
 
 
