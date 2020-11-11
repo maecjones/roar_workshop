@@ -24,3 +24,7 @@ You think i need to push but i need to pull first
 
 Hoping this has worked
 
+## Push and Pull 
+
+Remember to always push and pull 
+
